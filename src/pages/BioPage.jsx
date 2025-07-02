@@ -7,7 +7,7 @@ export default function BioPage() {
     <div className="min-h-screen bg-black text-white font-sans px-6 py-16">
             <div className="max-w-6xl mx-auto ">
 
-         <div className="px-6 py-4">
+         <div className="py-2">
       <Link
         to="/"
         className="inline-flex items-center text-sm text-gray-700 hover:text-gray-900 transition"
