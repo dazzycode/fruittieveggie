@@ -111,6 +111,42 @@ const projects = [
     image: "/art19.jpg",
     link: "https://yourprojectlink.com",
   },
+   {
+    id: 19,
+    title: "Canvas Art",
+    image: "/art20.jpg",
+    link: "https://yourprojectlink.com",
+  },
+  {
+    id: 20,
+    title: "Canvas Art",
+    image: "/art21.jpg",
+    link: "https://yourprojectlink.com",
+  },
+ {
+    id: 21,
+    title: "Canvas Art",
+    image: "/art22.jpg",
+    link: "https://yourprojectlink.com",
+  },
+  {
+    id: 22,
+    title: "Canvas Art",
+    image: "/art23.jpg",
+    link: "https://yourprojectlink.com",
+  },
+  {
+    id: 23,
+    title: "Canvas Art",
+    image: "/art24.jpg",
+    link: "https://yourprojectlink.com",
+  },
+   {
+    id: 24,
+    title: "Canvas Art",
+    image: "/art25.jpg",
+    link: "https://yourprojectlink.com",
+  },
 ];
 
 const WorkPage = () => {

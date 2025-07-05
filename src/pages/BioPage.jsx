@@ -38,7 +38,7 @@ Thank you for visiting my site. I invite you to explore my portfolio and experie
 
         {/* Skills List */}
         <div className="flex flex-wrap justify-center gap-4 mb-12">
-          {["Pro Canva Skills",  "grids", "effects", "templates", "Image Editing", "Resizing" ].map(
+          {["Pro Canva ",  "grids", "effects", "templates", "Image Editing", "Resizing" ].map(
             (skill, index) => (
               <span
                 key={index}

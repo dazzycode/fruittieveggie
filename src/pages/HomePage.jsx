@@ -60,8 +60,8 @@ export default function HomePage() {
           <p className="mb-2 text-sm">07054501445</p>
            <p className="mb-2 text-sm">0707 199 6400</p>
           <p className="text-sm">
-            No 24, baale street igbo <br />
-             Efon , Lagos <br />
+            No 24, baale street igbo, Efon  <br />
+              Lagos <br />
             Nigeria
           </p>
         </div>
